@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .header__icon {
+    @apply text-primary_purple rounded-lg p-2 mx-1 ring-1 ring-primary_purple;
+  }
+}
