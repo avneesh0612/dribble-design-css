@@ -4,6 +4,9 @@ module.exports = {
   darkMode: false,
   theme: {
     extend: {
+      fontFamily: {
+        designery: ["ZCOOL KuaiLe"],
+      },
       colors: {
         primary_purple: "#D5B1FC",
       },

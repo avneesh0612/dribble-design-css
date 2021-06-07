@@ -9,8 +9,8 @@ function Main() {
         <p>2021</p>
       </div>
 
-      <h1 className="font-bold text-8xl">Summer</h1>
-      <h1 className="font-bold text-8xl ml-20">Dreams</h1>
+      <h1 className="font-bold text-8xl font-designery">Summer</h1>
+      <h1 className="font-bold text-8xl ml-20 font-designery">Dreams</h1>
       <div className="flex items-center justify-center mt-5 !pr-28">
         <h3 className="text-xl p-2 ring-2 ring-primary_purple">
           Discover The Collection
